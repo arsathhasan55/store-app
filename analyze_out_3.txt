@@ -1,0 +1,21 @@
+Analyzing MLAH Fashion...                                       
+
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\bags_product_listing_page.dart:217:82 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\bill_payment.dart:49:16 - use_build_context_synchronously
+warning - Dead code - lib\cart.dart:162:47 - dead_code
+warning - Dead code - lib\cart.dart:179:45 - dead_code
+warning - Unused import: 'models/order_model.dart' - lib\checkout.dart:7:8 - unused_import
+   info - Constructors in '@immutable' classes should be declared as 'const' - lib\dataconnect_generated\search_movie.dart:162:3 - prefer_const_constructors_in_immutables
+   info - Don't use 'BuildContext's across async gaps - lib\forgot_page.dart:37:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\main.dart:106:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\men_product.dart:225:88 - use_build_context_synchronously
+warning - Unused import: 'cart_manager.dart' - lib\product_details_page.dart:5:8 - unused_import
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\product_details_page.dart:107:68 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\product_details_page.dart:287:74 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\product_details_page.dart:327:58 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\profile.dart:220:25 - use_build_context_synchronously
+warning - Unused import: 'models/user_model.dart' - lib\save_item.dart:11:8 - unused_import
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\save_item.dart:210:80 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\signup_page.dart:57:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\womens_product_listing_page.dart:212:86 - use_build_context_synchronously
+
